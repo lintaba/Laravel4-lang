@@ -45,8 +45,8 @@ return array(
 	"mimes"            => "A(z) :attribute kizárólag az alábbi fájlformátumok egyike lehet: :values.",
 	"min"              => array(
 		"numeric" => "A(z) :attribute értéke nem lehet kisebb, mint :min!",
-		"file"    => "A(z) :attribute mérete nem lehet több, mint :min kilobájt.",
-		"string"  => "A(z) :attribute hossza nem lehet több, mint :min karakter.",
+		"file"    => "A(z) :attribute mérete nem lehet kevesebb, mint :min kilobájt.",
+		"string"  => "A(z) :attribute hossza nem lehet kevesebb, mint :min karakter.",
 	),
 	"not_in"           => "A(z) :attribute értéke érvénytelen.",
 	"numeric"          => "A(z) :attribute szám kell, hogy legyen!",
